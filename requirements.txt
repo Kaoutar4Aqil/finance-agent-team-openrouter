@@ -5,5 +5,6 @@ duckduckgo-search>=8.0.0
 yfinance>=0.2.65
 streamlit>=1.40.0
 ddgs
-sqlalchemy>=2.0.0
+sqlalchemy[asyncio]>=2.0.0
 aiosqlite>=0.20.0
+greenlet>=3.2.0
