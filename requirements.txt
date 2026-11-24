@@ -3,3 +3,5 @@ openai>=1.99.0
 python-dotenv>=1.0.1
 duckduckgo-search>=8.0.0
 yfinance>=0.2.65
+streamlit>=1.40.0
+ddgs
